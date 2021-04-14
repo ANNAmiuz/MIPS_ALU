@@ -39,7 +39,6 @@ cat result.txt
 
 ​		Here is the graph showing how ALU perform various kinds of operations. For example, when the opcode is 000000 and the function-code is 100100, the *Operation* code for the multiplexer of every 1-bit ALU is 0. 
 
-<img src="C:\Users\yingy\AppData\Roaming\Typora\typora-user-images\image-20210411200238876.png" alt="image-20210411200238876" style="zoom: 25%;" />
 
 ​		In CPU, the control words of ALU, like ALUop and ALUctr come from the parts outsides ALU. The operands of ALU are also got and modified outsides ALU. ALU takes the two operands and some control signals as inputs. 
 
