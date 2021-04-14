@@ -45,11 +45,9 @@ cat result.txt
 
 ​		However, in this simplified version of ALU, the program takes the 32-bit instruction, 32-bit values of register A and register B as inputs. Therefore, the ALU in this program needs to distinguish and modify the 2 operands. Then it should be able to decide which operation to perform. Finally, it gets the 32-bit result and sets the 3 flags.
 
- <img src="C:\Users\yingy\Desktop\general.svg" alt="general" style="zoom: 50%;" />
 
 #### 1.1 Data Flow Chart
 
-<img src="C:\Users\yingy\Desktop\mermaid-diagram-20210411205149.svg" alt="mermaid-diagram-20210411205149" style="zoom:50%;" />
 
 #### 1.2 High Level Implementation
 
